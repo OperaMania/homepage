@@ -1,0 +1,3 @@
+command to create film
+
+convert -adjoin -resize 720x480 -delay 500 -loop 0 ./Operamania_film/*.JPG out.gif
